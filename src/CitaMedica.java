@@ -4,4 +4,5 @@ public class CitaMedica {
     public String TipoDeServicioRequerido;
     public String ProfesionalAsignado;
     public String EstadoActualDelProceso
+            public String hola;
 }
